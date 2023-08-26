@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dt-code237
+- 👋 Hi, I’m @kipruto duncan
 - 👀 I’m interested in coding 
 - 🌱 I’m currently learning IT
 - 💞️ I’m looking to collaborate on coding ang programming 
