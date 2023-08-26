@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kipruto duncan
 - 👀 I’m interested in coding 
 - 🌱 I’m currently learning IT
-- 💞️ I’m looking to collaborate on coding ang programming 
+- 💞️ I’m looking to collaborate on coding and programming 
 - 📫 Get me on Google at Dt-code237
 
 <!---
